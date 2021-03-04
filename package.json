@@ -2,7 +2,7 @@
   "name": "CorsProxy",
   "description": "Simple Cors Proxy",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "dependencies": {
     "express": "~4.17.1",
     "request": "^2.36.0",
